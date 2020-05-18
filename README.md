@@ -8,3 +8,6 @@ The purpose of this script is to iterate through Azure susbcriptions and export 
 2) Requires the "ImportExcel" module, must be installed prior to running the script: https://github.com/dfinke/ImportExcel
 
 3) Must be logged in using the Login-AzAccount command
+
+#### Example:
+![alt text](https://github.com/kylgrn/azure_rbac_audit/blob/master/image.png)
